@@ -1,0 +1,20 @@
+##DATASET
+https://www.kaggle.com/datasnaek/league-of-legends
+
+A) https://www.kaggle.com/jaytegge/league-of-legends-data-analysis
+- Campeões mais escolhidos
+- Campeões mais banidos
+- Tipos de campeões mais escolhidos (Lutador, Support, etc)
+- Summoner Spell mais usados
+
+B) https://www.kaggle.com/jaytegge/league-of-legends-logistic-regression-analysis
+- Prever o ganhador da partida a partir dos objetivos (First Baron, First Blood, etc)
+- Usa 2/3 dos dados para ensinar a máquina e confere os outros 1/3
+
+C) https://www.kaggle.com/gulsahdemiryurek/let-s-predict-league-of-legends-match-score
+- Usa Grid Search Method para desenvolver o modelo
+
+D)https://www.kaggle.com/harryren/everything-you-need-to-know-about-lol
+- Grafico da duração do jogo
+- Entendi quase nada
+- Tipo o B) e C)
